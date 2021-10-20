@@ -1,0 +1,56 @@
+
+
+.solicitarColeta{background-color: #A8CB17;}
+
+.tituloJumbo{
+	color: #17649A;
+}
+
+.tituloJumbo2{
+	color: #A8CB17;
+}
+
+.textoJumbo{
+	color: #17649A;
+}
+
+.bordaJumbo{
+	border: 5px solid #17649A
+;}
+
+.menu {
+	margin-bottom: 25px;
+}
+
+.app {
+	margin-top: 25px;
+}
+
+.pagina {
+	border:solid 1px #DFDFDF;
+	padding:25px !important;
+}
+
+li.list-group-item.active {
+	background-color: #fff;
+	border-color: #009933;
+    border-left:solid 10px #009933;
+}
+
+li a {
+	color: #212529;
+}
+
+li a:hover {
+	text-decoration: none;
+}
+
+h4 {
+	color: #009933 !important;
+}
+
+
+
+
+
+body{background-image: linear-gradient(#DDF5DD,#347624);}
